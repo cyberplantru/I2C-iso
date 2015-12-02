@@ -49,7 +49,7 @@ for use with standalone optocouplers. The I2Ciso Module provides two bidirection
 
 ## Isolated sensor
 
-Use  to eliminate electrical noise. The I2Ciso recommended to when reading pH and Conductivity together. Compatible with pHtoI2C and EC Reader. 
+Use  to eliminate electrical noise. The I2Ciso recommended to when reading pH and Conductivity together. Compatible with [pHtoI2C](https://github.com/cyberplantru/pH-to-I2C-v20-sample-code) and EC Reader. 
 
 ![pH to I2C](http://image.cyber-plant.com/var/resizes/I2CisoConnect.jpg?m=1449083123)
 
