@@ -40,7 +40,7 @@ By default supply voltage set to output 5V. For use other mode need to cut coppe
 
 Use  to eliminate electrical noise. The I2Ciso recommended to when reading pH and Conductivity together. Compatible with [pH Mini](https://github.com/cyberplantru/pH-Mini-v30-sample-code) and [EC Mini](EC-Mini-v30-Sample-Code). 
 
-![pH to I2C](http://image.cyber-plant.com/var/resizes/CyberPlantI2CisoBaner1.jpg?m=1458141116)
+![pH to I2C](http://image.cyber-plant.com/var/resizes/CyberPlantI2CisoBaner1-01.jpg?m=1458142334)
 
 ----------
 
