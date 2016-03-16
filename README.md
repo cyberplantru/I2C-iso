@@ -1,23 +1,21 @@
-##CyberPlant I2Ciso
+![EC Reader](http://image.cyber-plant.com/var/resizes/CyberPlantMiniSeries-01.jpg?m=1458131397)
+##CyberPlant I2C*iso*
 
-The I2Ciso Module are hot swappable digital isolators with nonlatching, bidirectional communication channels that
+The I2C*iso* Module are hot swappable digital isolators with nonlatching, bidirectional communication channels that
 are compatible with I2C interfaces. This eliminates the need for
 splitting I2C signals into separate transmit and receive signals
-for use with standalone optocouplers. The I2Ciso Module provides two bidirectional channels, supporting a complete isolated I2C interface.
+for use with standalone optocouplers. The I2C*iso* Module provides two bidirectional channels, supporting a complete isolated I2C interface.
 
 ##Features:
-
 - Regulated 3.3 V or 5 V output
 - Up to 500 mW output power
 - Bidirectional I2C communication
-- input-output pull up switches 4k7
-- I2C port compatible with Grove
-- PCB Size : 36.8 mm×20.3 mm
+- input-output pull up 4k7
+- Can use as Shield for Arduino Pro Mini
+- PCB Size : 33.02 mm×17.78 mm
 
 
 ## Applications
-
-
 - Isolated sensor interfaces
 - Isolated I2C, SMBus, or PMBus interfaces
 - Multilevel I2C interfaces
@@ -25,20 +23,11 @@ for use with standalone optocouplers. The I2Ciso Module provides two bidirection
 - Networking
 - RS-232/RS-422/RS-485 transceivers
 
-## Regulated 3.3 V or 5 V output
+#### Regulated 3.3 V or 5 V output
 
-**5V**(default):
- 
-**VDD Input | Viso Output**
+By default supply voltage set to output 5V. For use other mode need to cut copper wire on layer top and use jumper as switch
 
-----------
-
-- 5.0 V     | 5.0 V  
-- 3.3 V     | 5.0 V  
-
-![pH to I2C](http://image.cyber-plant.com/var/resizes/I2CisoV.jpg?m=1449081617)
-
-**3.3V**:
+![pH to I2C](http://image.cyber-plant.com/var/resizes/CyberPlantI2CisoBaner0.jpg?m=1458140106)
  
 **VDD Input | Viso Output**
 
@@ -49,11 +38,11 @@ for use with standalone optocouplers. The I2Ciso Module provides two bidirection
 
 ## Isolated sensor
 
-Use  to eliminate electrical noise. The I2Ciso recommended to when reading pH and Conductivity together. Compatible with [pHtoI2C](https://github.com/cyberplantru/pH-to-I2C-v20-sample-code) and EC Reader. 
+Use  to eliminate electrical noise. The I2Ciso recommended to when reading pH and Conductivity together. Compatible with [pH Mini](https://github.com/cyberplantru/pH-Mini-v30-sample-code) and [EC Mini](EC-Mini-v30-Sample-Code). 
 
-![pH to I2C](http://image.cyber-plant.com/var/resizes/I2CisoConnect.jpg?m=1449083123)
+![pH to I2C](http://image.cyber-plant.com/var/resizes/CyberPlantI2CisoBaner1.jpg?m=1458141116)
 
 ----------
 
-[link to CyberPlant](http://www.cyberplant.info).
+[link to CyberPlant](http://www.cyber-plant.com).
 
