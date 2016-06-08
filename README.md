@@ -1,10 +1,10 @@
 ![EC Reader](http://image.cyber-plant.com/var/resizes/CyberPlantMiniSeries-01.jpg?m=1458131397)
-##CyberPlant I2C*iso*
+##CyberPlant I2C *iso* Mini
 
-The I2C*iso* Module are hot swappable digital isolators with nonlatching, bidirectional communication channels that
+The I2C *iso* Mini v3.0 are hot swappable digital isolators with nonlatching, bidirectional communication channels that
 are compatible with I2C interfaces. This eliminates the need for
 splitting I2C signals into separate transmit and receive signals
-for use with standalone optocouplers. The I2C*iso* Module provides two bidirectional channels, supporting a complete isolated I2C interface.
+for use with standalone optocouplers. The I2C *iso* Mini provides two bidirectional channels, supporting a complete isolated I2C interface.
 
 ##Features:
 - Regulated 3.3 V or 5 V output
@@ -42,7 +42,19 @@ Use to eliminate electrical noise. The I2Ciso recommended to when reading pH and
 
 ![pH to I2C](http://image.cyber-plant.com/var/resizes/CyberPlantI2CisoBaner1-01.jpg?m=1458142334)
 
+
 ----------
 
-[link to CyberPlant](http://www.cyber-plant.com).
+### Package include:
 
+-     1 x I2C iso Mini v3.0
+-     2 x 12 PLS connectors
+-     2 x 4 angle PLS
+-     1 x jumper
+
+----------
+
+### Documentation:
+
+- [Hardware](https://github.com/cyberplantru/EC-mini-v31-hardware)
+- [link to CyberPlant](http://www.cyber-plant.com).
