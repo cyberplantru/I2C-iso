@@ -29,12 +29,7 @@ By default supply voltage set to output 5V. For use other mode need to cut coppe
 
 ![pH to I2C](http://image.cyber-plant.com/var/resizes/CyberPlantI2CisoBaner0.jpg?m=1458140106)
  
-**VDD Input | Viso Output**
-
-----------
-
-- 5.0 V     | 3.3 V  
-- 3.3 V     | 3.3 V  
+![](http://image.cyber-plant.com/var/resizes/2016-06-08_23-21-14.png?m=1465417380)
 
 ## Isolation of sensors
 
