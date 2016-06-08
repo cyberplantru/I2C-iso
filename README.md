@@ -56,5 +56,5 @@ Use to eliminate electrical noise. The I2Ciso recommended to when reading pH and
 
 ### Documentation:
 
-- [Hardware](https://github.com/cyberplantru/EC-mini-v31-hardware)
+- [Hardware](https://github.com/cyberplantru/I2C-iso/)
 - [link to CyberPlant](http://www.cyber-plant.com).
